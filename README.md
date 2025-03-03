@@ -42,7 +42,7 @@ RecoverySky is **open-source and community-driven**! You can help by:
 ## 📜 Open Source & Licensing
 RecoverySky is **free and open-source**, built to **serve the recovery community**. We adhere to an **ethical, privacy-first approach**, and **respect the traditions of anonymity**.
 
-🔗 **[License: MIT](LICENSE)**
+🔗 **[License: AGPL-3.0](LICENSE)**
 
 ---
 
